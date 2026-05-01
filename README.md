@@ -1,6 +1,8 @@
 # dpd
 Dynamic Panel Data Models Use dpd (dynpanel) With (In) R Software
 
+https://www.youtube.com/watch?v=ahi49iMl_fE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
